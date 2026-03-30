@@ -12,4 +12,12 @@ public class Gittest {
 		System.out.println("print3");
 	}
 	
+	@Test
+	public void gitesting()
+	{
+		System.out.println("print4");
+		System.out.println("print5");
+		System.out.println("print6");
+	}
+	
 }
